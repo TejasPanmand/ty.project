@@ -1,5 +1,6 @@
 # ty.project
 Last Year Project Of Tejas Panmand in PHP
+The SQL queries are used in PostgreSQL and maybe different for other versions.
 
 
 Shree Chanakya Education Society’s
